@@ -1,4 +1,16 @@
 
-            body { font-family: Arial, sans-serif; }
-            h1{ Text-align: center; }
-            h2{ color: red;}
+            body { font-family: Arial, sans-serif;
+                    background-color: blanchedalmond;
+            }
+            h1{ Text-align: center;
+                border-bottom: solid 4px;
+            }
+            h2{ color: red;
+                text-transform:uppercase;
+            }
+            hr [
+               width:50%
+                margin: auto;
+
+
+            ]
